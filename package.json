@@ -1,7 +1,7 @@
 {
-  "name": "payfoot-token-contract",
+  "name": "porini-community-token-contract",
   "version": "1.0.0",
-  "description": "This is PayFoot's ERC-20 smart contract, whose tokens are used as stablecoins in their ecosystem.",
+  "description": "This is Porini's ERC-20 smart contract, whose tokens can activate communities to support conservation activities and learn about blockchain technology.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.appswithlove.net/payfoot/payfoot-token-contract.git"
+    "url": "git+https://gitlab.appswithlove.net/green_list_market/porini-community-token-contract.git"
   },
   "bugs": {
-    "url": "https://gitlab.appswithlove.net/payfoot/payfoot-token-contract/-/issues"
+    "url": "https://gitlab.appswithlove.net/green_list_market/porini-community-token-contract/-/issues"
   },
   "keywords": [
     "smartcontract",
-    "payfoot",
+    "porini",
+    "community",
+    "token",
     "solidity",
     "ethereum",
     "erc20",

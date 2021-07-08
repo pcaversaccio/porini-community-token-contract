@@ -26,6 +26,7 @@ module.exports = {
     kovan: {
       provider: () => new HDWalletProvider({mnemonic: {phrase: seedPhrase}, providerOrUrl: `${config.kovan.url}/${projectId}`}),
       network_id: config.kovan.network_id,
+      networkCheckTimeout: config.kovan.network_check_timeout,
     },
     goerli: {
       provider: () => new HDWalletProvider({mnemonic: {phrase: seedPhrase}, providerOrUrl: `${config.goerli.url}/${projectId}`}),
@@ -38,6 +39,10 @@ module.exports = {
     payfoot: {
       provider: () => new HDWalletProvider({mnemonic: {phrase: seedPhrase}, providerOrUrl: `${config.payfoot.url}`}),
       network_id: config.payfoot.network_id,
+    },
+    porini: {
+      provider: () => new HDWalletProvider({mnemonic: {phrase: seedPhrase}, providerOrUrl: `${config.porini.url}`}),
+      network_id: config.porini.network_id,
     },
   },
 
