@@ -1,52 +1,52 @@
 {
     "rinkeby": {
-        "verifyingContract": "0x12bd590D921D3936Db75BA60FaAE1F6A2E495b46",
+        "verifyingContract": "0x67A64D9F71AAa0bE4a7D3DEef91c2707F691983C",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
-        "name": "PayFoot",
-        "symbol": "PFT",
+        "name": "Porini Community Token",
+        "symbol": "PCT",
         "version": "1",
-        "domainSeperator": "0xb2df099b6b2277296fd0e2f2b3ce214e7183d67447d4c3ad59028fa631bcad61",
+        "domainSeparator": "0xaee1b7267f0d5d6195ab404010c50845ec4f9081be44470fca952f24ae6f4866",
         "network_id": 4
     },
     "ropsten": {
-        "verifyingContract": "0xA7125fB628A2d4A60Cb650709ac046B5B2f9C12D",
+        "verifyingContract": "0xeb8647302b2F97653452Ce1582E046e205D515bc",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
-        "name": "PayFoot",
-        "symbol": "PFT",
+        "name": "Porini Community Token",
+        "symbol": "PCT",
         "version": "1",
-        "domainSeperator": "0x6557818cecaaf5cc7518970b8d57e9c023da049579b7b093949a803dc126c1c1",
+        "domainSeparator": "0x0d963a66f597e0d25cc0998145a80aedde3dbbcf2e72fe8424612135400d2a8d",
         "network_id": 3
     },
     "kovan": {
-        "verifyingContract": "0x667483ec1078c64f8D7e35B49152C3c2C87cCB56",
+        "verifyingContract": "0xbB5C47840930Af779042b6209c064B8Ac9247848",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
-        "name": "PayFoot",
-        "symbol": "PFT",
+        "name": "Porini Community Token",
+        "symbol": "PCT",
         "version": "1",
-        "domainSeperator": "0x95baa059e3ed09523e741cb1ceaab712dca2dbb0e636349d09fb9e3382312d39",
+        "domainSeparator": "0x92ea45b366a474ae58e55e355f9418a1be221f04fa7300135615edf95cf3cd5f",
         "network_id": 42
     },
     "goerli": {
-        "verifyingContract": "0x31e6Bf2c4E2Aa5AFC0e85b5feEF73C9137B24c5E",
+        "verifyingContract": "0x667483ec1078c64f8D7e35B49152C3c2C87cCB56",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
-        "name": "PayFoot",
-        "symbol": "PFT",
+        "name": "Porini Community Token",
+        "symbol": "PCT",
         "version": "1",
-        "domainSeperator": "0x1476c0a78f806d83a39c98b92d8fadaf62b663372f58c6bb3c3b4c9b6c323b50",
+        "domainSeparator": "0x50c9006d5d977fcf4c7a2e904d366465d5aea8b5c04fc359c0965e233a9fae0f",
         "network_id": 5
     },
-    "payfoot": {
-        "verifyingContract": "0x1C90008B345fA5BEf50d6AB617A1BB91cf51c41d",
+    "porini": {
+        "verifyingContract": "TBD",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
-        "name": "PayFoot",
-        "symbol": "PFT",
+        "name": "Porini Community Token",
+        "symbol": "PCT",
         "version": "1",
-        "domainSeperator": "0x1ddb067447db90ac8d6c2bfec22aa04c0ebfb75e1b4b2fedcbf286ea302c544b",
+        "domainSeparator": "TBD",
         "network_id": 888
     }
 }

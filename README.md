@@ -110,16 +110,16 @@ Go to the corresponding Etherscan link, e.g. https://rinkeby.etherscan.io/addres
 
 ## Test Deployments
 The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/blob/main/contracts/ImpactDollar.sol) has been deployed across all the major test networks:
-- **Rinkeby:** [0xBeA3fCC51e031a9A8c77C0D8CB9873FeBb783045](https://rinkeby.etherscan.io/address/0xbea3fcc51e031a9a8c77c0d8cb9873febb783045)
-- **Ropsten:** [0xbB5C47840930Af779042b6209c064B8Ac9247848](https://ropsten.etherscan.io/address/0xbB5C47840930Af779042b6209c064B8Ac9247848)
-- **Kovan:** [0x20EC414D11C2C1C9c332083284C1f99C1365A645](https://kovan.etherscan.io/address/0x20ec414d11c2c1c9c332083284c1f99c1365a645)
-- **Goerli:** [0x64e9465B3B965e10f8C093729c9280aF9f1D9648](https://goerli.etherscan.io/address/0x64e9465B3B965e10f8C093729c9280aF9f1D9648)
+- **Rinkeby:** [0x67A64D9F71AAa0bE4a7D3DEef91c2707F691983C](https://rinkeby.etherscan.io/address/0x67A64D9F71AAa0bE4a7D3DEef91c2707F691983C)
+- **Ropsten:** [0xeb8647302b2F97653452Ce1582E046e205D515bc](https://ropsten.etherscan.io/address/0xeb8647302b2F97653452Ce1582E046e205D515bc)
+- **Kovan:** [0xbB5C47840930Af779042b6209c064B8Ac9247848](https://kovan.etherscan.io/address/0xbB5C47840930Af779042b6209c064B8Ac9247848)
+- **Goerli:** [0x667483ec1078c64f8D7e35B49152C3c2C87cCB56](https://goerli.etherscan.io/address/0x667483ec1078c64f8D7e35B49152C3c2C87cCB56)
 
 ## Production Deployments on SustainabilityChain
 The smart contract [`ImpactDollar.sol`](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/blob/main/contracts/ImpactDollar.sol) has been deployed to the SustainabilityChain network with [Remix<sup>*</sup> ](http://remix.ethereum.org) and signed with the ImpactDollar hardware wallet (Ledger Nano S):
-- Contract creation transaction hash: [0xf6aaa03f3f3433db11f4b862ed7e424b1c24e0c59f1b9fe84cadf062bafdcde6](https://expedition.dev/tx/0xf6aaa03f3f3433db11f4b862ed7e424b1c24e0c59f1b9fe84cadf062bafdcde6?network=Porini)
-- **Contract address:** [0xfEC6Ae9cA6656e534E8d2B8813718401C7823079](https://expedition.dev/address/0xfEC6Ae9cA6656e534E8d2B8813718401C7823079?network=Porini)
-- **Contract admin:** [0xD4095bA16e4a10eA5E2d6901705713BfD61C3E2d](https://expedition.dev/address/0xD4095bA16e4a10eA5E2d6901705713BfD61C3E2d?network=Porini)
+- Contract creation transaction hash: TBD
+- **Contract address:** TBD
+- **Contract admin:** TBD
 - Contract Application Binary Interface (ABI): Can be downloaded from the [snippet](https://gitlab.appswithlove.net/green_list_market/impact-dollar-token-contract/-/snippets/18). This file was copied from Remix after compilation.
 > **Note 1:** Make sure that you always copy the full smart contract ABI and not just one of the inherited interfaces!
 
