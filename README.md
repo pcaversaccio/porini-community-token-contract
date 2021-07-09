@@ -117,9 +117,9 @@ The smart contract [`PoriniCommunityToken.sol`](https://gitlab.appswithlove.net/
 
 ## Production Deployments on SustainabilityChain
 The smart contract [`PoriniCommunityToken.sol`](https://gitlab.appswithlove.net/green_list_market/porini-community-token-contract/-/blob/main/contracts/PoriniCommunityToken.sol) has been deployed to the SustainabilityChain network with [Remix<sup>*</sup> ](http://remix.ethereum.org) and signed with the PoriniCommunityToken hardware wallet (Ledger Nano S):
-- Contract creation transaction hash: TBD
-- **Contract address:** TBD
-- **Contract admin:** TBD
+- Contract creation transaction hash: [0xcbca637e085f83a84c6b0ec557de96868df4cf68e82a8737f5dff3db74f79788](https://expedition.dev/tx/0xcbca637e085f83a84c6b0ec557de96868df4cf68e82a8737f5dff3db74f79788?network=Porini)
+- **Contract address:** [0x62DAE5fD87368F56aF3D576D4837523429DcE2b1](https://expedition.dev/address/0x62DAE5fD87368F56aF3D576D4837523429DcE2b1?network=Porini)
+- **Contract admin:** [0xc4d8b0D2436D0E317958330E179A1787C8e38202](https://expedition.dev/address/0xc4d8b0D2436D0E317958330E179A1787C8e38202?network=Porini)
 - Contract Application Binary Interface (ABI): Can be downloaded from the [snippet](https://gitlab.appswithlove.net/green_list_market/porini-community-token-contract/-/snippets/19). This file was copied from Remix after compilation.
 > **Note 1:** Make sure that you always copy the full smart contract ABI and not just one of the inherited interfaces!
 

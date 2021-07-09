@@ -40,13 +40,13 @@
         "network_id": 5
     },
     "porini": {
-        "verifyingContract": "TBD",
+        "verifyingContract": "0x62DAE5fD87368F56aF3D576D4837523429DcE2b1",
         "spenderAddress": "0x9F3f11d72d96910df008Cfe3aBA40F361D2EED03",
         "deadline": 1909147011,
         "name": "Porini Community Token",
         "symbol": "PCT",
         "version": "1",
-        "domainSeparator": "TBD",
-        "network_id": 888
+        "domainSeparator": "0x83d1ca4104e5b2d4e39f9a525628a8c65ce9eacddcaf42f1afa10a94ad0a2d78",
+        "network_id": 421
     }
 }
